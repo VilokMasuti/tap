@@ -1,0 +1,70 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "KIMS Hospital Bagalkot",
+      "type": "Hospital",
+      "address": "Navanagar, Bagalkot, Karnataka 587101",
+      "distance": "1.2 km",
+      "phone": "+91-8362-234567",
+      "rating": 4.5,
+      "isOpen": true,
+      "image": "/placeholder.svg?height=200&width=300"
+    },
+    {
+      "id": 2,
+      "name": "SBI ATM Station Road",
+      "type": "ATM",
+      "address": "Station Road, Bagalkot, Karnataka 587101",
+      "distance": "0.5 km",
+      "phone": "+91-8362-345678",
+      "rating": 4.2,
+      "isOpen": true,
+      "image": "/placeholder.svg?height=200&width=300"
+    },
+    {
+      "id": 3,
+      "name": "Apollo Pharmacy",
+      "type": "Pharmacy",
+      "address": "Kerur Road, Bagalkot, Karnataka 587101",
+      "distance": "0.8 km",
+      "phone": "+91-8362-456789",
+      "rating": 4.7,
+      "isOpen": true,
+      "image": "/placeholder.svg?height=200&width=300"
+    },
+    {
+      "id": 4,
+      "name": "Canara Bank ATM",
+      "type": "ATM",
+      "address": "Mudhol Road, Bagalkot, Karnataka 587103",
+      "distance": "1.5 km",
+      "phone": "+91-8362-567890",
+      "rating": 4.0,
+      "isOpen": false,
+      "image": "/placeholder.svg?height=200&width=300"
+    },
+    {
+      "id": 5,
+      "name": "District Hospital Bagalkot",
+      "type": "Hospital",
+      "address": "Hospital Road, Bagalkot, Karnataka 587101",
+      "distance": "2.0 km",
+      "phone": "+91-8362-678901",
+      "rating": 4.3,
+      "isOpen": true,
+      "image": "/placeholder.svg?height=200&width=300"
+    },
+    {
+      "id": 6,
+      "name": "MedPlus Pharmacy",
+      "type": "Pharmacy",
+      "address": "Gandhi Chowk, Bagalkot, Karnataka 587101",
+      "distance": "1.1 km",
+      "phone": "+91-8362-789012",
+      "rating": 4.6,
+      "isOpen": true,
+      "image": "/placeholder.svg?height=200&width=300"
+    }
+  ]
+}
